@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Melbourne Open Research Network</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Melbourne Open Research Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 12 Jul 2018 16:54:54 +0600</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deakin Open Research Network</title>
+      <link>/portfolio/deakin/</link>
+      <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
+      
+      <guid>/portfolio/deakin/</guid>
+      <description>Deakin Open Research Network Deakin University is a young university spread across 4 campuses, in Burwood, Geelong, and Warnambool. The open research community at Deakin is primarily located at the Burwood campus and is eager to know open research advocates in the local area.
+We will be running a weekly &amp;ldquo;open science hacky hour&amp;rdquo; on the Burwood campus, so if you want to learn more about open research, find new ways to open up your work, or just want to meet some new people, let us know and come along.</description>
+    </item>
+    
+  </channel>
+</rss>
