@@ -1,12 +1,11 @@
 enable  : true
 title   : Network Steering Committee
 members  :
-  - name  : Mathew Ling
+  - name  : Arbitrary person
     image : images/team/M_Ling_web.jpg
     designation : Interim Co-ordinator
-    description : Mathew is a Lecturer in Psychology at Deakin University and is eager to share responsibility for MORN with other like minded radicals. 
-    twitter     : https://www.twitter.com/lingtax
-    linkedIn    : https://www.linkedin.com/in/mathew-ling-940a5497/
+    description : Arbitrary is a Lecturer in Something at a University and is eager to share responsibility for this with other like minded radicals. 
+    twitter     : https://www.twitter.com/test
 
   
 #  - name  : Jesmin Martina
