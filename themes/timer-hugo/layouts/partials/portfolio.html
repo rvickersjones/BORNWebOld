@@ -12,6 +12,10 @@
                 {{ $delay := mul $index 300 }}
                 <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
                     <div class="img-wrapper">
+                        <!-- added by Danielle -->
+                       <a href="{{ .Permalink }}"><img src="{{ .Params.image }}" class="img-fluid" alt="this is a title"></a>
+                       <!-- commented out by Danielle -->
+                        <!--
                         <img src="{{ .Params.image }}" class="img-fluid" alt="this is a title">
                         <div class="overlay">
                             <div class="buttons">
@@ -19,6 +23,7 @@
                                 <a href="{{ .Permalink }}">Details</a>
                             </div>
                         </div>
+                         -->
                     </div>
                     <figcaption>
                         <h4>
