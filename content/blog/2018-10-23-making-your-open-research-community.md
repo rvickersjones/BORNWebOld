@@ -13,13 +13,13 @@ The object of this network is the propagation of open research practices through
 
 To that end, this post intends to lay out how you can promote open research in your place of work and it borrows liberally from Loek Brinkman and Anita Eerland's guide to forming the original [Open science Community Utrecht](https://docs.google.com/document/d/112B-OCArTI-zdDZ6S67BPVHSn6gPL9GgmluoQ35zG40/edit).
 
-First of all, **let MORN help you bootstrap your community**. As of the 23rd Octber, 2018, we know of 40+ open scientists from a variety of disciplines and institutes in Melbourne. Reach out and we can put out a call to put you together.
+First of all, **let BORN help you bootstrap your community**. As of the 23rd Octber, 2018, we know of 40+ open scientists from a variety of disciplines and institutes in Brisbane. Reach out and we can put out a call to put you together.
 
 Second, **investigate what resources your institute has invested in this space**. Swinburne University is reportedly trying to drive the adoption of open research practices from the top down, and so this provides unique opportunities for the development of their open research community. If this applies, your open research community should try to engage with these processes early, and act as an adjunct to these top-down efforts.   
 
 Third, **develop some branding and web presence**. The network can provide you some help with this, and point you in the right direction for solidifying your presence. As per OSCU, we encourage you to put your names and faces on your web presence, so new people to open practices can be more comfortable in identifying you and knowing who to approach to learn more. Let us know about your group so we can promote you here. 
 
-Next, **start spreading the news**. A website on it's own won't make for a community, so start reaching out via mailing lists and faculty admin. The objective is not the put the fear of god into people, but instead to provide an opportunity for interested people to find each other, so try to strike a welcoming tone that emphasises ideas of personal growth in a supportive community. 
+Next, **start spreading the news**. A website on its own won't make for a community, so start reaching out via mailing lists and faculty admin. The objective is not the put the fear of god into people, but instead to provide an opportunity for interested people to find each other, so try to strike a welcoming tone that emphasises ideas of personal growth in a supportive community. 
 
 Now it's **time for an official launch**, maybe have an invited speaker (from an external institute in the network perhaps), and then a panel discussion with representatives across career levels and disciplines. Invite non-members to come along and see what this is about. As such, it's good to use this opportunity to pitch a schedule of activities for the forseeable future (and also to celebrate a little).
 

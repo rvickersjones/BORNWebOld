@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-uk"
-title = "Melbourne Open Research Network"
+title = "Brisbane Open Research Network"
 theme = "timer-hugo"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -40,8 +40,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.banner]
         enable  = true
         bgImage = "images/bg.jpg"
-        heading = "WELCOME TO THE MELBOURNE OPEN RESEARCH NETWORK"
-        description = "A hub for Open Research practitioners in Melbourne, Australia."
+        heading = "WELCOME TO THE BRISBANE OPEN RESEARCH NETWORK"
+        description = "A hub for Open Research practitioners in Brisbane, Australia."
         #btn     = true
         #btnText = "Download More"
         #btnURL  = "https://themefisher.com/"
@@ -56,7 +56,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "ABOUT THE NETWORK"
-        content = "Open science and open research practices are growing in Australia, but discovering Open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in Victoria, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research.</br>Follow our <a href='https://groups.google.com/forum/#!forum/melb-open-research'> mailing list</a> or <a href='https://twitter.com/MelbOpenRes'>twitter account</a> for updates.</br></br>MORN is an inclusive and welcoming community by design, to preserve this, MORN activities are subject to our <a href='https://morn.netlify.com/coc'>Code of conduct</a>. Please familiarise yourself with it. "
+        content = "Open science and open research practices are growing in Australia, but discovering Open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in Queensland, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research.</br>Follow our <a href='https://groups.google.com/forum/#!forum/bris-open-research'> mailing list</a> or <a href='https://twitter.com/BrisOpenRes'>twitter account</a> for updates.</br></br>Born is an inclusive and welcoming community by design, to preserve this, Born activities are subject to our <a href='https://born.netlify.com/coc'>Code of conduct</a>. Please familiarise yourself with it. "
         image   = "images/about/invert.png"
 
     # Call to Action
