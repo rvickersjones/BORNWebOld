@@ -33,7 +33,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Site Params
 [params]
     home = "Home"
-    logo = "images/web_logo_small.png"
+    logo = "images/ferris-wheel.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
@@ -57,7 +57,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         enable  = true
         title   = "ABOUT THE NETWORK"
         content = "Open science and open research practices are growing in Australia, but discovering Open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in Queensland, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research.</br>Follow our <a href='https://groups.google.com/forum/#!forum/bris-open-research'> mailing list</a> or <a href='https://twitter.com/BrisOpenRes'>twitter account</a> for updates.</br></br>Born is an inclusive and welcoming community by design, to preserve this, Born activities are subject to our <a href='https://born.netlify.com/coc'>Code of conduct</a>. Please familiarise yourself with it. "
-        image   = "images/about/invert.png"
+        image   = "images/about/ferris-wheel.png"
 
     # Call to Action
     [params.cta]
