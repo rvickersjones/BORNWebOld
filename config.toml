@@ -51,17 +51,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
             title   = "ADVOCACY"
         [[params.banner.flipText]]
             title   = "EDUCATION"
+        [[params.banner.flipText]]
+            title   = "RESOURCES"
 
     # Homepage About Section
     [params.about]
         enable  = true
         title   = "ABOUT THE NETWORK"
-        content = "Open science and open research practices are growing in Australia, but discovering Open research can feel like an isolating experience. This is a mechanism to promote open science and open practices in Queensland, to build a sense of community amongst people who might otherwise feel like the only open researchers they know. <br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research.</br>Follow our <a href='https://groups.google.com/forum/#!forum/bris-open-research'> mailing list</a> or <a href='https://twitter.com/BrisOpenRes'>twitter account</a> for updates.</br></br>Born is an inclusive and welcoming community by design, to preserve this, Born activities are subject to our <a href='https://born.netlify.com/coc'>Code of conduct</a>. Please familiarise yourself with it. "
+        content = "Open science and open research practices are growing in Australia, but it can be difficult to know who else is engaging in these practices. The Brisbane Open Research Network (BORN) is part of a larger network throughout Australia and New Zealand (ANZORN) aimed at promoting open research and helping to connect people to share resources, practices, and a sense of community. If you're not in Brisbane but like the sound of the community, **check out the other communities in our network**. <br><br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research.</br>Follow our <a href='https://twitter.com/BrisOpenRes'>twitter account</a> for updates.</br></br>BORN is an inclusive and welcoming community by design — to preserve this, BORN activities are subject to our <a href='https://born.netlify.com/coc'>Code of Conduct</a>."
         image   = "images/about/ferris-wheel.png"
 
     # Call to Action
     [params.cta]
-        enable  = false
+        enable  = true
         title   = "Do you want to know more?"
         content = "Get in touch and help us grow this community further.</br>You might not be the only person in your institute, let us know so we can start linking you with people in your area."
         btnText = "Contact us"
@@ -69,7 +71,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = true
+        enable  = false
         title   = "LOCAL COMMUNITIES"
         subtitle= "Want to find some open science advocates near you? Check out some of our institutional communities."
 
