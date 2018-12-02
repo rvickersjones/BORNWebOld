@@ -9,14 +9,14 @@ description: >
   </br></br>
   BORN is inspired by the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a>.  
   
-image   : images/about/mosn_sites.png
+#image   : images/about/mosn_sites.png
 aboutItem:
   - title : What is open research?
     description: > 
       Open research is a term describing a variety of practices directed at maximising the transparency of research, and ultimately leading to maximisation of public goods. These include: Open Access publication, open data, open methodology, Open Source software, open educational resources & open peer review.
   - title : Where should I start?
     description: > 
-      Check if there is an open science community at your workplace, and if not, fill in the survey. We might be able to help you start one! 
+      Check if there is an open science community at your workplace, and if not, let us know. We might be able to help you start one! 
   - title : What is the logo?
     description: > 
-      The logo depicts the <a href="https://thewheelofbrisbane.com.au/">Wheel of Brisbane</a>, a very noticeable part of Brisbane's skyline. It also represents the many individuals and groups in Brisbane coming together to form an eclectic but united community in the name of open research.
+      The logo depicts the [Wheel of Brisbane](https://thewheelofbrisbane.com.au/), a very noticeable part of Brisbane's skyline. It also represents the many individuals and groups in Brisbane coming together to form an eclectic but united community in the name of open research.
