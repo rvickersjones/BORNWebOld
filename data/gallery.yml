@@ -1,4 +1,4 @@
-enable  : true
+enable  : false
 galleryImages :
   - image : images/portfolio/Deakin.jpg
   - image : images/portfolio/Melbourne.jpg
