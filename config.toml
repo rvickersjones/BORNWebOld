@@ -22,7 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #    url     = "/gallery"
     #    weight  = 4
     [[menu.nav]]
-        name    = "Articles"
+        name    = "Blog"
         url     = "/blog"
         weight  = 3
     #[[menu.nav]]
@@ -58,20 +58,23 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "ABOUT THE NETWORK"
-        content = "Open science and open research practices are growing in Australia, but it can be difficult to know who else is engaging in these practices. The Brisbane Open Research Network (BORN) is part of a larger network throughout Australia and New Zealand (ANZORN) aimed at promoting open research and helping to connect people to share resources, practices, and a sense of community. If you're not in Brisbane but like the sound of the community, check out the other communities in our network below. </br></br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research.</br></br>Follow our <a href='https://twitter.com/BrisOpenRes'>Twitter account</a> for updates.</br></br>BORN is an inclusive and welcoming community by design — to preserve this, BORN activities are subject to our <a href='https://born.netlify.com/coc'>Code of Conduct</a>."
+        content = "Open science and open research practices are growing in Australia, but it can be difficult to know who else is engaging in these practices. The Brisbane Open Research Network (BORN) is part of a larger network throughout Australia and New Zealand (ANZORN) aimed at promoting open research and helping to connect people to share resources, practices, and a sense of community. If you're not in Brisbane but like the sound of the community, check out the other communities in our network below. </br></br>We aim to help you find like-minded folks, support efforts to reform institutional policies and practices, and educate others about open research.</br></br>Follow our <a href='https://twitter.com/BrisOpenRes' target='_blank'>Twitter account</a> for updates.</br></br>BORN is an inclusive and welcoming community by design — to preserve this, BORN activities are subject to our <a href='https://born.netlify.com/coc' target='_blank'>Code of Conduct</a>."
         image   = "images/about/ferris-wheel.png"
 
     # Call to Action
     [params.cta]
-        enable  = false
-        title   = "Do you want to know more?"
-        content = "Get in touch and help us grow this community further."
-        btn1Text = "Contact"
-        btn1URL  = "/contact"
+        enable  = true
+        title   = "ANZORN Networks"
+        content = "Want to connect with one of our partner networks?"
+        btnMText = "Melbourne"
+        btnSText = "Sydney"
+        btnPText = "Perth - coming soon"
+        btnAText = "Adelaide - coming soon"
+        btnNZText = "New Zealand"
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = true
+        enable  = false
         title   = "ANZORN Networks"
         subtitle= "Want to connect with one of our partner networks?"
 
