@@ -63,17 +63,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # Call to Action
     [params.cta]
-        enable  = true
+        enable  = false
         title   = "Do you want to know more?"
         content = "Get in touch and help us grow this community further."
-        btnText = "Contact us"
-        btnURL  = "/contact"
+        btn1Text = "Contact"
+        btn1URL  = "/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = false
-        title   = "LOCAL COMMUNITIES"
-        subtitle= "Want to find some open science advocates near you? Check out some of our institutional communities."
+        enable  = true
+        title   = "ANZORN Networks"
+        subtitle= "Want to connect with one of our partner networks?"
 
     # Feature Product Section
     [params.feature]
