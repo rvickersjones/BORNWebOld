@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Melbourne Open Research Network</title>
+    <title>Portfolios on Brisbane Open Research Network</title>
     <link>/portfolio/</link>
-    <description>Recent content in Portfolios on Melbourne Open Research Network</description>
+    <description>Recent content in Portfolios on Brisbane Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 12 Jul 2018 16:54:54 +0600</lastBuildDate>
@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>test Open Research community</title>
+      <title>Melbourne Open Research Network</title>
       <link>/portfolio/test/</link>
       <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
       
       <guid>/portfolio/test/</guid>
-      <description>Test Open Research Community Test University is a Place. The open research community at Test is primarily located at the test campus and is eager to know open research advocates in the local area.
-We will be running a weekly &amp;ldquo;open science hacky hour&amp;rdquo; on the test campus, so if you want to learn more about open research, find new ways to open up your work, or just want to meet some new people, let us know and come along.</description>
+      <description>Melbourne Open Research Network Live in or around Melbourne? Head over to their website to find other Victorians interested in open research.</description>
     </item>
     
   </channel>
